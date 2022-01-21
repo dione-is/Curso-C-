@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e63699d5-202c-4acd-ac56-164baea0964c": {
+      "ProjectGuid": "e63699d5-202c-4acd-ac56-164baea0964c",
+      "DisplayName": "classes,metodos etc",
+      "ColorIndex": 0
+    },
+    "3e442699-ff15-43b7-a8cf-b58eb590d213": {
+      "ProjectGuid": "3e442699-ff15-43b7-a8cf-b58eb590d213",
+      "DisplayName": "exercicio01",
+      "ColorIndex": 1
+    },
+    "f92740b5-a20b-41d9-bed4-2ef56f6fd020": {
+      "ProjectGuid": "f92740b5-a20b-41d9-bed4-2ef56f6fd020",
+      "DisplayName": "exericio02",
+      "ColorIndex": 2
+    },
+    "5b5c4eb5-0b4b-4663-8da8-f590153fe9d4": {
+      "ProjectGuid": "5b5c4eb5-0b4b-4663-8da8-f590153fe9d4",
+      "DisplayName": "exercicio03",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

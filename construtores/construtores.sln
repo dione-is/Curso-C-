@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "construtores", "construtores\construtores.csproj", "{F630772A-F75D-4472-AE2C-8C4D78303F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contaBancaria", "contaBancaria\contaBancaria.csproj", "{E40053C3-7F0F-4BFF-B52A-DCA3789E81C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F630772A-F75D-4472-AE2C-8C4D78303F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F630772A-F75D-4472-AE2C-8C4D78303F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F630772A-F75D-4472-AE2C-8C4D78303F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F630772A-F75D-4472-AE2C-8C4D78303F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40053C3-7F0F-4BFF-B52A-DCA3789E81C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40053C3-7F0F-4BFF-B52A-DCA3789E81C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40053C3-7F0F-4BFF-B52A-DCA3789E81C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40053C3-7F0F-4BFF-B52A-DCA3789E81C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D69E3611-35B7-4261-9DD8-9A10B21EA6E0}
+	EndGlobalSection
+EndGlobal

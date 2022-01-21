@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\bin\Debug\net6.0\arrays vetores e listas.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\bin\Debug\net6.0\arrays vetores e listas.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\bin\Debug\net6.0\arrays vetores e listas.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\bin\Debug\net6.0\arrays vetores e listas.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\bin\Debug\net6.0\ref\arrays vetores e listas.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\bin\Debug\net6.0\arrays vetores e listas.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\obj\Debug\net6.0\arrays vetores e listas.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\obj\Debug\net6.0\arrays vetores e listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\obj\Debug\net6.0\arrays vetores e listas.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\obj\Debug\net6.0\arrays vetores e listas.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\obj\Debug\net6.0\arrays vetores e listas.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\obj\Debug\net6.0\arrays vetores e listas.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\obj\Debug\net6.0\ref\arrays vetores e listas.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\obj\Debug\net6.0\arrays vetores e listas.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\arrays vetores e listas\arrays vetores e listas\obj\Debug\net6.0\arrays vetores e listas.genruntimeconfig.cache

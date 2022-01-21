@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\TopicosEspeciais.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\TopicosEspeciais.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\TopicosEspeciais.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\TopicosEspeciais.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\ref\TopicosEspeciais.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\TopicosEspeciais.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\ref\TopicosEspeciais.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.genruntimeconfig.cache

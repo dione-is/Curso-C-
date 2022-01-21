@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f630772a-f75d-4472-ae2c-8c4d78303f74": {
+      "ProjectGuid": "f630772a-f75d-4472-ae2c-8c4d78303f74",
+      "DisplayName": "construtores",
+      "ColorIndex": 0
+    },
+    "e40053c3-7f0f-4bff-b52a-dca3789e81c9": {
+      "ProjectGuid": "e40053c3-7f0f-4bff-b52a-dca3789e81c9",
+      "DisplayName": "contaBancaria",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

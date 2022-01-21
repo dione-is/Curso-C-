@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13620f60-6cfd-4314-9c27-76d4a06f2f8b": {
+      "ProjectGuid": "13620f60-6cfd-4314-9c27-76d4a06f2f8b",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 0
+    },
+    "1d98fbaa-2267-439d-8e69-ced2d4d52edb": {
+      "ProjectGuid": "1d98fbaa-2267-439d-8e69-ced2d4d52edb",
+      "DisplayName": "exercicio",
+      "ColorIndex": 1
+    },
+    "2920b260-572b-4d75-a691-cf12493d80eb": {
+      "ProjectGuid": "2920b260-572b-4d75-a691-cf12493d80eb",
+      "DisplayName": "exercicio02",
+      "ColorIndex": 2
+    },
+    "64232add-0866-42d4-bc95-4111b5114a42": {
+      "ProjectGuid": "64232add-0866-42d4-bc95-4111b5114a42",
+      "DisplayName": "exercicio03",
+      "ColorIndex": 3
+    },
+    "754248ce-bfae-42ee-b431-b20f8282575b": {
+      "ProjectGuid": "754248ce-bfae-42ee-b431-b20f8282575b",
+      "DisplayName": "exercicio04",
+      "ColorIndex": 4
+    },
+    "9cbb48d1-99f0-443f-b9da-7ed2b05ae627": {
+      "ProjectGuid": "9cbb48d1-99f0-443f-b9da-7ed2b05ae627",
+      "DisplayName": "exercicio05",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

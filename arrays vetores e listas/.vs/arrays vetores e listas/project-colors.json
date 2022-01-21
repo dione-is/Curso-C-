@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65fd6a6d-a306-4cea-9697-2285258d3996": {
+      "ProjectGuid": "65fd6a6d-a306-4cea-9697-2285258d3996",
+      "DisplayName": "arrays vetores e listas",
+      "ColorIndex": 0
+    },
+    "b3faa3ae-bb92-4b52-908b-3fc493063192": {
+      "ProjectGuid": "b3faa3ae-bb92-4b52-908b-3fc493063192",
+      "DisplayName": "Pensionato",
+      "ColorIndex": 1
+    },
+    "7aed5f85-1c75-457c-83eb-10d67ed6a55f": {
+      "ProjectGuid": "7aed5f85-1c75-457c-83eb-10d67ed6a55f",
+      "DisplayName": "Calculadora",
+      "ColorIndex": 2
+    },
+    "02b2cf4f-629c-45cc-b46d-e8521aa326d3": {
+      "ProjectGuid": "02b2cf4f-629c-45cc-b46d-e8521aa326d3",
+      "DisplayName": "Listas",
+      "ColorIndex": 3
+    },
+    "7f1c8f84-be8c-48fe-a4e9-cfc91397d20b": {
+      "ProjectGuid": "7f1c8f84-be8c-48fe-a4e9-cfc91397d20b",
+      "DisplayName": "ListaFuncionario",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

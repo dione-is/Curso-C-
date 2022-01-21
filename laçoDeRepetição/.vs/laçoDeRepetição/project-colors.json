@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d37e94b-55d0-41d2-ba97-0203e2b7b161": {
+      "ProjectGuid": "2d37e94b-55d0-41d2-ba97-0203e2b7b161",
+      "DisplayName": "exercicio01",
+      "ColorIndex": 0
+    },
+    "626a664a-373b-402f-92fe-461392828ab5": {
+      "ProjectGuid": "626a664a-373b-402f-92fe-461392828ab5",
+      "DisplayName": "exercicio02",
+      "ColorIndex": 1
+    },
+    "64125bd4-8da3-4f63-90b0-f84536f379ca": {
+      "ProjectGuid": "64125bd4-8da3-4f63-90b0-f84536f379ca",
+      "DisplayName": "exercicio03",
+      "ColorIndex": 2
+    },
+    "d1333a0a-b336-4dd3-b6d7-42235cd589aa": {
+      "ProjectGuid": "d1333a0a-b336-4dd3-b6d7-42235cd589aa",
+      "DisplayName": "exercicio04",
+      "ColorIndex": 3
+    },
+    "9c9130f0-99a5-4676-9eba-5f8a1b8c398c": {
+      "ProjectGuid": "9c9130f0-99a5-4676-9eba-5f8a1b8c398c",
+      "DisplayName": "exercicio05",
+      "ColorIndex": 4
+    },
+    "38c13d4a-7fe4-4660-8922-002061e226b6": {
+      "ProjectGuid": "38c13d4a-7fe4-4660-8922-002061e226b6",
+      "DisplayName": "exercicio06",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

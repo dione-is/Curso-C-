@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a1da475-7447-46bd-bbf8-87849f1e3679": {
+      "ProjectGuid": "5a1da475-7447-46bd-bbf8-87849f1e3679",
+      "DisplayName": "matriz",
+      "ColorIndex": 0
+    },
+    "1c9b8644-b008-4fc0-97c8-7c3fbf286803": {
+      "ProjectGuid": "1c9b8644-b008-4fc0-97c8-7c3fbf286803",
+      "DisplayName": "exercicio02",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

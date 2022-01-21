@@ -1,0 +1,14 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\bin\Debug\net6.0\exercicio04.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\bin\Debug\net6.0\exercicio04.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\bin\Debug\net6.0\exercicio04.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\bin\Debug\net6.0\exercicio04.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\bin\Debug\net6.0\ref\exercicio04.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\bin\Debug\net6.0\exercicio04.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\obj\Debug\net6.0\exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\obj\Debug\net6.0\exercicio04.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\obj\Debug\net6.0\exercicio04.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\obj\Debug\net6.0\exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\obj\Debug\net6.0\exercicio04.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\obj\Debug\net6.0\ref\exercicio04.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\obj\Debug\net6.0\exercicio04.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\FuncoesMatematica\exercicio04\obj\Debug\net6.0\exercicio04.genruntimeconfig.cache

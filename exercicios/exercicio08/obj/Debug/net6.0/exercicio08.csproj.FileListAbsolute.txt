@@ -1,0 +1,14 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\bin\Debug\net6.0\exercicio08.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\bin\Debug\net6.0\exercicio08.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\bin\Debug\net6.0\exercicio08.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\bin\Debug\net6.0\exercicio08.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\bin\Debug\net6.0\ref\exercicio08.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\bin\Debug\net6.0\exercicio08.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\obj\Debug\net6.0\exercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\obj\Debug\net6.0\exercicio08.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\obj\Debug\net6.0\exercicio08.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\obj\Debug\net6.0\exercicio08.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\obj\Debug\net6.0\exercicio08.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\obj\Debug\net6.0\ref\exercicio08.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\obj\Debug\net6.0\exercicio08.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\exercicio08\obj\Debug\net6.0\exercicio08.genruntimeconfig.cache

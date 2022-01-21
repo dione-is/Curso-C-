@@ -1,0 +1,14 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\bin\Debug\net6.0\exericio02.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\bin\Debug\net6.0\exericio02.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\bin\Debug\net6.0\exericio02.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\bin\Debug\net6.0\exericio02.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\bin\Debug\net6.0\ref\exericio02.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\bin\Debug\net6.0\exericio02.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\obj\Debug\net6.0\exericio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\obj\Debug\net6.0\exericio02.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\obj\Debug\net6.0\exericio02.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\obj\Debug\net6.0\exericio02.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\obj\Debug\net6.0\exericio02.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\obj\Debug\net6.0\ref\exericio02.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\obj\Debug\net6.0\exericio02.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\classes,metodos etc\exericio02\obj\Debug\net6.0\exericio02.genruntimeconfig.cache

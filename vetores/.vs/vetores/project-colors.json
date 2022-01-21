@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec7fb7e1-5657-4dec-ab0a-64723bcc8f48": {
+      "ProjectGuid": "ec7fb7e1-5657-4dec-ab0a-64723bcc8f48",
+      "DisplayName": "vetores",
+      "ColorIndex": 0
+    },
+    "bd74e2f6-e9da-4b28-8b44-df69277bca85": {
+      "ProjectGuid": "bd74e2f6-e9da-4b28-8b44-df69277bca85",
+      "DisplayName": "exercicio01",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

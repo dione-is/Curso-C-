@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\bin\Debug\net6.0\construtores.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\bin\Debug\net6.0\construtores.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\bin\Debug\net6.0\construtores.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\bin\Debug\net6.0\construtores.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\bin\Debug\net6.0\ref\construtores.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\bin\Debug\net6.0\construtores.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\obj\Debug\net6.0\construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\obj\Debug\net6.0\construtores.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\obj\Debug\net6.0\construtores.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\obj\Debug\net6.0\construtores.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\obj\Debug\net6.0\construtores.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\obj\Debug\net6.0\ref\construtores.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\obj\Debug\net6.0\construtores.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\obj\Debug\net6.0\construtores.genruntimeconfig.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\construtores\obj\Debug\net6.0\construtores.csproj.AssemblyReference.cache

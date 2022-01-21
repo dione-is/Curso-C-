@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\bin\Debug\net6.0\contaBancaria.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\bin\Debug\net6.0\contaBancaria.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\bin\Debug\net6.0\contaBancaria.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\bin\Debug\net6.0\contaBancaria.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\bin\Debug\net6.0\ref\contaBancaria.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\bin\Debug\net6.0\contaBancaria.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\obj\Debug\net6.0\contaBancaria.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\obj\Debug\net6.0\contaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\obj\Debug\net6.0\contaBancaria.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\obj\Debug\net6.0\contaBancaria.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\obj\Debug\net6.0\contaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\obj\Debug\net6.0\contaBancaria.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\obj\Debug\net6.0\ref\contaBancaria.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\obj\Debug\net6.0\contaBancaria.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\construtores\contaBancaria\obj\Debug\net6.0\contaBancaria.genruntimeconfig.cache
