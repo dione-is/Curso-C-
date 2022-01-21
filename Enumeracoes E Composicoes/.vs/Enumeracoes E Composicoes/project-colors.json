@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b19a06d-42e6-4a49-9cf4-5ec13cd9028a": {
+      "ProjectGuid": "4b19a06d-42e6-4a49-9cf4-5ec13cd9028a",
+      "DisplayName": "Enumeracoes E Composicoes",
+      "ColorIndex": 0
+    },
+    "b8879362-3099-4659-a116-287f6792226a": {
+      "ProjectGuid": "b8879362-3099-4659-a116-287f6792226a",
+      "DisplayName": "Desafio Calculo Pagamentos",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
