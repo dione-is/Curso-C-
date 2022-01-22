@@ -1,0 +1,15 @@
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\obj\Debug\net6.0\Desafio Calculo Pagamentos.csproj.AssemblyReference.cache
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\obj\Debug\net6.0\Desafio Calculo Pagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\obj\Debug\net6.0\Desafio Calculo Pagamentos.AssemblyInfoInputs.cache
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\obj\Debug\net6.0\Desafio Calculo Pagamentos.AssemblyInfo.cs
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\obj\Debug\net6.0\Desafio Calculo Pagamentos.csproj.CoreCompileInputs.cache
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\bin\Debug\net6.0\Desafio Calculo Pagamentos.exe
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\bin\Debug\net6.0\Desafio Calculo Pagamentos.deps.json
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\bin\Debug\net6.0\Desafio Calculo Pagamentos.runtimeconfig.json
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\bin\Debug\net6.0\Desafio Calculo Pagamentos.dll
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\bin\Debug\net6.0\ref\Desafio Calculo Pagamentos.dll
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\bin\Debug\net6.0\Desafio Calculo Pagamentos.pdb
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\obj\Debug\net6.0\Desafio Calculo Pagamentos.dll
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\obj\Debug\net6.0\ref\Desafio Calculo Pagamentos.dll
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\obj\Debug\net6.0\Desafio Calculo Pagamentos.pdb
+C:\Users\dione\Documents\GitHub\Curso-C-\Enumeracoes E Composicoes\Desafio Calculo Pagamentos\obj\Debug\net6.0\Desafio Calculo Pagamentos.genruntimeconfig.cache

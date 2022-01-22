@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dione\\Documents\\CursoAlgoritmoELogicaC#\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes.csproj": {}
+    "C:\\Users\\dione\\Documents\\GitHub\\Curso-C-\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dione\\Documents\\CursoAlgoritmoELogicaC#\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes.csproj": {
+    "C:\\Users\\dione\\Documents\\GitHub\\Curso-C-\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dione\\Documents\\CursoAlgoritmoELogicaC#\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes.csproj",
+        "projectUniqueName": "C:\\Users\\dione\\Documents\\GitHub\\Curso-C-\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes.csproj",
         "projectName": "Enumeracoes E Composicoes",
-        "projectPath": "C:\\Users\\Dione\\Documents\\CursoAlgoritmoELogicaC#\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes.csproj",
-        "packagesPath": "C:\\Users\\Dione\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dione\\Documents\\CursoAlgoritmoELogicaC#\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes\\obj\\",
+        "projectPath": "C:\\Users\\dione\\Documents\\GitHub\\Curso-C-\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes.csproj",
+        "packagesPath": "C:\\Users\\dione\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dione\\Documents\\GitHub\\Curso-C-\\Enumeracoes E Composicoes\\Enumeracoes E Composicoes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dione\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dione\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
