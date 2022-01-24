@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\bin\Debug\net6.0\Desafio Pedido.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\bin\Debug\net6.0\Desafio Pedido.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\bin\Debug\net6.0\Desafio Pedido.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\bin\Debug\net6.0\Desafio Pedido.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\bin\Debug\net6.0\ref\Desafio Pedido.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\bin\Debug\net6.0\Desafio Pedido.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\obj\Debug\net6.0\Desafio Pedido.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\obj\Debug\net6.0\Desafio Pedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\obj\Debug\net6.0\Desafio Pedido.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\obj\Debug\net6.0\Desafio Pedido.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\obj\Debug\net6.0\Desafio Pedido.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\obj\Debug\net6.0\Desafio Pedido.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\obj\Debug\net6.0\ref\Desafio Pedido.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\obj\Debug\net6.0\Desafio Pedido.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Desafio Pedido\obj\Debug\net6.0\Desafio Pedido.genruntimeconfig.cache
