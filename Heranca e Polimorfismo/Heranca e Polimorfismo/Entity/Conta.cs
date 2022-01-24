@@ -21,8 +21,8 @@ namespace Heranca_e_Polimorfismo.Entity {
             this.saldo = saldo;
         }
 
-        public void Saque (double valor) {
-            saldo -= valor;
+        public virtual void Saque (double valor) {
+            saldo -= valor + 5;
         }
 
         public void Deposito(double valor) { 
