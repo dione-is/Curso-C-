@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net6.0\Heranca e Polimorfismo.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net6.0\Heranca e Polimorfismo.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net6.0\Heranca e Polimorfismo.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net6.0\Heranca e Polimorfismo.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net6.0\ref\Heranca e Polimorfismo.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\bin\Debug\net6.0\Heranca e Polimorfismo.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net6.0\Heranca e Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net6.0\Heranca e Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net6.0\Heranca e Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net6.0\Heranca e Polimorfismo.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net6.0\Heranca e Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net6.0\Heranca e Polimorfismo.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net6.0\ref\Heranca e Polimorfismo.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net6.0\Heranca e Polimorfismo.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Heranca e Polimorfismo\obj\Debug\net6.0\Heranca e Polimorfismo.genruntimeconfig.cache

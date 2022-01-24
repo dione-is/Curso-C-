@@ -34,7 +34,7 @@ namespace Principal {
 
                 Console.WriteLine("Informe nome e preco do produto");
                 string nomeProduto = Console.ReadLine();
-                double precoProduto = double.Parse(Console.ReadLine());
+                double precoProduto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 int quantidade = int.Parse(Console.ReadLine());
 
                 produto = new Produto(nomeProduto, precoProduto);
@@ -45,11 +45,7 @@ namespace Principal {
 
             Console.WriteLine();
             Console.WriteLine("PEDIDO");
-            Console.WriteLine(pedido);
-
-
-
-            
+            Console.WriteLine(pedido);            
 
         }
     }

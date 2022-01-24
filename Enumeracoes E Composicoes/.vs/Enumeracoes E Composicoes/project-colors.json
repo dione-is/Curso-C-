@@ -10,7 +10,17 @@
       "ProjectGuid": "b8879362-3099-4659-a116-287f6792226a",
       "DisplayName": "Desafio Calculo Pagamentos",
       "ColorIndex": 1
+    },
+    "1da17ba9-baaa-4020-a0ab-5b50a2718039": {
+      "ProjectGuid": "1da17ba9-baaa-4020-a0ab-5b50a2718039",
+      "DisplayName": "Publicacao",
+      "ColorIndex": 2
+    },
+    "db1ad615-bc2c-4bd9-868b-78be20865e6a": {
+      "ProjectGuid": "db1ad615-bc2c-4bd9-868b-78be20865e6a",
+      "DisplayName": "Desafio Pedido",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
