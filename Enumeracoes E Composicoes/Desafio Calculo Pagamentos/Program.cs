@@ -61,10 +61,14 @@ namespace curso
             }while (opcao != 'n');
 
             Console.WriteLine("Informe o mes/ano para que seja calculado a renda no periodo ");
-            Console.WriteLine("mes");
-            int mes = int.Parse(Console.ReadLine());
-            Console.WriteLine("ano");
-            int ano = int.Parse(Console.ReadLine());
+           // Console.WriteLine("mes");
+            //int mes = int.Parse(Console.ReadLine());
+           // Console.WriteLine("ano");
+            //int ano = int.Parse(Console.ReadLine());
+            string mesAno = Console.ReadLine();
+            int mes = int.Parse(mesAno.Substring(0, 2));
+            int ano = int.Parse(mesAno.Substring(3));
+
             double renda = funcionario1.renda(mes, ano);
 
             Console.WriteLine(funcionario1 + " " + renda.ToString("F2", CultureInfo.InvariantCulture));

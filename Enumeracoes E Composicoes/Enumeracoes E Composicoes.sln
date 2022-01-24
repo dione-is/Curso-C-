@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeracoes E Composicoes", "Enumeracoes E Composicoes\Enumeracoes E Composicoes.csproj", "{4B19A06D-42E6-4A49-9CF4-5EC13CD9028A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeracoes E Composicoes", "Enumeracoes E Composicoes\Enumeracoes E Composicoes.csproj", "{4B19A06D-42E6-4A49-9CF4-5EC13CD9028A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio Calculo Pagamentos", "Desafio Calculo Pagamentos\Desafio Calculo Pagamentos.csproj", "{B8879362-3099-4659-A116-287F6792226A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio Calculo Pagamentos", "Desafio Calculo Pagamentos\Desafio Calculo Pagamentos.csproj", "{B8879362-3099-4659-A116-287F6792226A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publicacao", "Publicacao\Publicacao.csproj", "{1DA17BA9-BAAA-4020-A0AB-5B50A2718039}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B8879362-3099-4659-A116-287F6792226A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8879362-3099-4659-A116-287F6792226A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8879362-3099-4659-A116-287F6792226A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA17BA9-BAAA-4020-A0AB-5B50A2718039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA17BA9-BAAA-4020-A0AB-5B50A2718039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA17BA9-BAAA-4020-A0AB-5B50A2718039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA17BA9-BAAA-4020-A0AB-5B50A2718039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\bin\Debug\net6.0\Publicacao.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\bin\Debug\net6.0\Publicacao.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\bin\Debug\net6.0\Publicacao.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\bin\Debug\net6.0\Publicacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\bin\Debug\net6.0\ref\Publicacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\bin\Debug\net6.0\Publicacao.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\obj\Debug\net6.0\Publicacao.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\obj\Debug\net6.0\Publicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\obj\Debug\net6.0\Publicacao.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\obj\Debug\net6.0\Publicacao.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\obj\Debug\net6.0\Publicacao.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\obj\Debug\net6.0\Publicacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\obj\Debug\net6.0\ref\Publicacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\obj\Debug\net6.0\Publicacao.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Enumeracoes E Composicoes\Publicacao\obj\Debug\net6.0\Publicacao.genruntimeconfig.cache

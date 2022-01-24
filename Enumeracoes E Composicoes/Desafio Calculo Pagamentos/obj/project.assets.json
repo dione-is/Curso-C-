@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dione\\.nuget\\packages\\": {},
+    "C:\\Users\\Dione\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dione\\Documents\\GitHub\\Curso-C-\\Enumeracoes E Composicoes\\Desafio Calculo Pagamentos\\Desafio Calculo Pagamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Dione\\Documents\\CursoAlgoritmoELogicaC#\\Enumeracoes E Composicoes\\Desafio Calculo Pagamentos\\Desafio Calculo Pagamentos.csproj",
       "projectName": "Desafio Calculo Pagamentos",
-      "projectPath": "C:\\Users\\dione\\Documents\\GitHub\\Curso-C-\\Enumeracoes E Composicoes\\Desafio Calculo Pagamentos\\Desafio Calculo Pagamentos.csproj",
-      "packagesPath": "C:\\Users\\dione\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dione\\Documents\\GitHub\\Curso-C-\\Enumeracoes E Composicoes\\Desafio Calculo Pagamentos\\obj\\",
+      "projectPath": "C:\\Users\\Dione\\Documents\\CursoAlgoritmoELogicaC#\\Enumeracoes E Composicoes\\Desafio Calculo Pagamentos\\Desafio Calculo Pagamentos.csproj",
+      "packagesPath": "C:\\Users\\Dione\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dione\\Documents\\CursoAlgoritmoELogicaC#\\Enumeracoes E Composicoes\\Desafio Calculo Pagamentos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\dione\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dione\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
