@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\bin\Debug\net6.0\Excessao Personalizada.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\bin\Debug\net6.0\Excessao Personalizada.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\bin\Debug\net6.0\Excessao Personalizada.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\bin\Debug\net6.0\Excessao Personalizada.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\bin\Debug\net6.0\ref\Excessao Personalizada.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\bin\Debug\net6.0\Excessao Personalizada.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\obj\Debug\net6.0\Excessao Personalizada.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\obj\Debug\net6.0\Excessao Personalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\obj\Debug\net6.0\Excessao Personalizada.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\obj\Debug\net6.0\Excessao Personalizada.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\obj\Debug\net6.0\Excessao Personalizada.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\obj\Debug\net6.0\Excessao Personalizada.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\obj\Debug\net6.0\ref\Excessao Personalizada.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\obj\Debug\net6.0\Excessao Personalizada.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessao Personalizada\obj\Debug\net6.0\Excessao Personalizada.genruntimeconfig.cache

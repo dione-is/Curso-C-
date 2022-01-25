@@ -5,7 +5,17 @@
       "ProjectGuid": "8a75cc0a-8333-49ef-a29d-aa4b6d7cbfcd",
       "DisplayName": "Heranca e Polimorfismo",
       "ColorIndex": 0
+    },
+    "2bc96d28-b989-4eb0-b6f5-5186ac9dae78": {
+      "ProjectGuid": "2bc96d28-b989-4eb0-b6f5-5186ac9dae78",
+      "DisplayName": "Calcular Area",
+      "ColorIndex": 1
+    },
+    "bd5b6014-190e-4965-b360-c6fcf3c3ed59": {
+      "ProjectGuid": "bd5b6014-190e-4965-b360-c6fcf3c3ed59",
+      "DisplayName": "Declaracao Imposto",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

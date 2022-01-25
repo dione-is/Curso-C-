@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\obj\Debug\net6.0\Excessoes.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\obj\Debug\net6.0\Excessoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\obj\Debug\net6.0\Excessoes.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\obj\Debug\net6.0\Excessoes.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\obj\Debug\net6.0\Excessoes.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\bin\Debug\net6.0\Excessoes.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\bin\Debug\net6.0\Excessoes.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\bin\Debug\net6.0\Excessoes.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\bin\Debug\net6.0\Excessoes.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\bin\Debug\net6.0\ref\Excessoes.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\bin\Debug\net6.0\Excessoes.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\obj\Debug\net6.0\Excessoes.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\obj\Debug\net6.0\ref\Excessoes.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\obj\Debug\net6.0\Excessoes.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Excessoes\Excessoes\obj\Debug\net6.0\Excessoes.genruntimeconfig.cache

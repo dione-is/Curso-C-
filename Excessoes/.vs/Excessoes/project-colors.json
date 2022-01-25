@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f761063d-11f4-4e22-bad6-dbb62778d2ea": {
+      "ProjectGuid": "f761063d-11f4-4e22-bad6-dbb62778d2ea",
+      "DisplayName": "Excessoes",
+      "ColorIndex": 0
+    },
+    "c8f1a0dc-15b8-42ee-a4bb-86a476c27a35": {
+      "ProjectGuid": "c8f1a0dc-15b8-42ee-a4bb-86a476c27a35",
+      "DisplayName": "Excessao Personalizada",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

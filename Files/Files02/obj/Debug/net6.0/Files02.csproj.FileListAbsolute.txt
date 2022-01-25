@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\bin\Debug\net6.0\Files02.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\bin\Debug\net6.0\Files02.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\bin\Debug\net6.0\Files02.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\bin\Debug\net6.0\Files02.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\bin\Debug\net6.0\ref\Files02.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\bin\Debug\net6.0\Files02.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\obj\Debug\net6.0\Files02.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\obj\Debug\net6.0\Files02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\obj\Debug\net6.0\Files02.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\obj\Debug\net6.0\Files02.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\obj\Debug\net6.0\Files02.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\obj\Debug\net6.0\Files02.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\obj\Debug\net6.0\ref\Files02.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\obj\Debug\net6.0\Files02.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Files\Files02\obj\Debug\net6.0\Files02.genruntimeconfig.cache
