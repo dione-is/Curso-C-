@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca e Polimorfismo", "Heranca e Polimorfismo\Heranca e Polimorfismo.csproj", "{8A75CC0A-8333-49EF-A29D-AA4B6D7CBFCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca e Polimorfismo", "Heranca e Polimorfismo\Heranca e Polimorfismo.csproj", "{8A75CC0A-8333-49EF-A29D-AA4B6D7CBFCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular Area", "Calcular Area\Calcular Area.csproj", "{2BC96D28-B989-4EB0-B6F5-5186AC9DAE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Declaracao Imposto", "Declaracao Imposto\Declaracao Imposto.csproj", "{BD5B6014-190E-4965-B360-C6FCF3C3ED59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{8A75CC0A-8333-49EF-A29D-AA4B6D7CBFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A75CC0A-8333-49EF-A29D-AA4B6D7CBFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A75CC0A-8333-49EF-A29D-AA4B6D7CBFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC96D28-B989-4EB0-B6F5-5186AC9DAE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC96D28-B989-4EB0-B6F5-5186AC9DAE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC96D28-B989-4EB0-B6F5-5186AC9DAE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC96D28-B989-4EB0-B6F5-5186AC9DAE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5B6014-190E-4965-B360-C6FCF3C3ED59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5B6014-190E-4965-B360-C6FCF3C3ED59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5B6014-190E-4965-B360-C6FCF3C3ED59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5B6014-190E-4965-B360-C6FCF3C3ED59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

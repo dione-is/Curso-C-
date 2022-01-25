@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\bin\Debug\net6.0\Declaracao Imposto.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\bin\Debug\net6.0\Declaracao Imposto.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\bin\Debug\net6.0\Declaracao Imposto.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\bin\Debug\net6.0\Declaracao Imposto.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\bin\Debug\net6.0\ref\Declaracao Imposto.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\bin\Debug\net6.0\Declaracao Imposto.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\obj\Debug\net6.0\Declaracao Imposto.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\obj\Debug\net6.0\Declaracao Imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\obj\Debug\net6.0\Declaracao Imposto.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\obj\Debug\net6.0\Declaracao Imposto.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\obj\Debug\net6.0\Declaracao Imposto.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\obj\Debug\net6.0\Declaracao Imposto.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\obj\Debug\net6.0\ref\Declaracao Imposto.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\obj\Debug\net6.0\Declaracao Imposto.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Declaracao Imposto\obj\Debug\net6.0\Declaracao Imposto.genruntimeconfig.cache

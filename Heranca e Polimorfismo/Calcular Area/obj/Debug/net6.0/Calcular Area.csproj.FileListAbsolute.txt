@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\bin\Debug\net6.0\Calcular Area.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\bin\Debug\net6.0\Calcular Area.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\bin\Debug\net6.0\Calcular Area.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\bin\Debug\net6.0\Calcular Area.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\bin\Debug\net6.0\ref\Calcular Area.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\bin\Debug\net6.0\Calcular Area.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\obj\Debug\net6.0\Calcular Area.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\obj\Debug\net6.0\Calcular Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\obj\Debug\net6.0\Calcular Area.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\obj\Debug\net6.0\Calcular Area.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\obj\Debug\net6.0\Calcular Area.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\obj\Debug\net6.0\Calcular Area.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\obj\Debug\net6.0\ref\Calcular Area.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\obj\Debug\net6.0\Calcular Area.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Heranca e Polimorfismo\Calcular Area\obj\Debug\net6.0\Calcular Area.genruntimeconfig.cache
