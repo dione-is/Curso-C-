@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\bin\Debug\net6.0\Locacao.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\bin\Debug\net6.0\Locacao.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\bin\Debug\net6.0\Locacao.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\bin\Debug\net6.0\Locacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\bin\Debug\net6.0\ref\Locacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\bin\Debug\net6.0\Locacao.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\obj\Debug\net6.0\Locacao.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\obj\Debug\net6.0\Locacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\obj\Debug\net6.0\Locacao.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\obj\Debug\net6.0\Locacao.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\obj\Debug\net6.0\Locacao.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\obj\Debug\net6.0\Locacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\obj\Debug\net6.0\ref\Locacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\obj\Debug\net6.0\Locacao.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Interfaces\obj\Debug\net6.0\Locacao.genruntimeconfig.cache
