@@ -13,7 +13,7 @@ namespace generics_set_dictionary {
             if (contador == 10 ) {
                 throw new Exception(" vetor ja esta cheio");
             }else {
-                _values[contador] =value;
+                _values[contador] = value;
                 contador++;
             }
         }
