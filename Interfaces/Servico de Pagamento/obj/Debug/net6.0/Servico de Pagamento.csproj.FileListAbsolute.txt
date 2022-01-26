@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\bin\Debug\net6.0\Servico de Pagamento.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\bin\Debug\net6.0\Servico de Pagamento.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\bin\Debug\net6.0\Servico de Pagamento.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\bin\Debug\net6.0\Servico de Pagamento.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\bin\Debug\net6.0\ref\Servico de Pagamento.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\bin\Debug\net6.0\Servico de Pagamento.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\obj\Debug\net6.0\Servico de Pagamento.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\obj\Debug\net6.0\Servico de Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\obj\Debug\net6.0\Servico de Pagamento.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\obj\Debug\net6.0\Servico de Pagamento.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\obj\Debug\net6.0\Servico de Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\obj\Debug\net6.0\Servico de Pagamento.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\obj\Debug\net6.0\ref\Servico de Pagamento.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\obj\Debug\net6.0\Servico de Pagamento.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Interfaces\Servico de Pagamento\obj\Debug\net6.0\Servico de Pagamento.genruntimeconfig.cache
