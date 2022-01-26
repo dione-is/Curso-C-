@@ -5,7 +5,12 @@
       "ProjectGuid": "6a3e361c-e007-401a-8569-4eac760597c8",
       "DisplayName": "Locacao",
       "ColorIndex": 0
+    },
+    "4729bf8a-0c6f-4b0d-a890-b608fd20b703": {
+      "ProjectGuid": "4729bf8a-0c6f-4b0d-a890-b608fd20b703",
+      "DisplayName": "Servico de Pagamento",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

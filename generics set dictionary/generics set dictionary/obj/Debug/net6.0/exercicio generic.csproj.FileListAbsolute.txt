@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\bin\Debug\net6.0\exercicio generic.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\bin\Debug\net6.0\exercicio generic.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\bin\Debug\net6.0\exercicio generic.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\bin\Debug\net6.0\exercicio generic.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\bin\Debug\net6.0\ref\exercicio generic.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\bin\Debug\net6.0\exercicio generic.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\obj\Debug\net6.0\exercicio generic.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\obj\Debug\net6.0\exercicio generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\obj\Debug\net6.0\exercicio generic.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\obj\Debug\net6.0\exercicio generic.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\obj\Debug\net6.0\exercicio generic.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\obj\Debug\net6.0\exercicio generic.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\obj\Debug\net6.0\ref\exercicio generic.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\obj\Debug\net6.0\exercicio generic.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\generics set dictionary\obj\Debug\net6.0\exercicio generic.genruntimeconfig.cache
