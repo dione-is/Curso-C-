@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\bin\Debug\net6.0\votacao.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\bin\Debug\net6.0\votacao.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\bin\Debug\net6.0\votacao.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\bin\Debug\net6.0\votacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\bin\Debug\net6.0\ref\votacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\bin\Debug\net6.0\votacao.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\obj\Debug\net6.0\votacao.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\obj\Debug\net6.0\votacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\obj\Debug\net6.0\votacao.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\obj\Debug\net6.0\votacao.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\obj\Debug\net6.0\votacao.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\obj\Debug\net6.0\votacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\obj\Debug\net6.0\ref\votacao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\obj\Debug\net6.0\votacao.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\votacao\obj\Debug\net6.0\votacao.genruntimeconfig.cache
