@@ -6,7 +6,7 @@ namespace log_Usuario.Entity {
     class RegistroAcesso {
         public string Nome { get; set; }
         public DateTime Horario { get; set; }
-/*
+
         public override bool Equals(object? obj) {
             return obj is RegistroAcesso acesso &&
                    Nome == acesso.Nome;
@@ -14,6 +14,6 @@ namespace log_Usuario.Entity {
 
         public override int GetHashCode() {
             return HashCode.Combine(Nome);
-        }*/
+        }
     }
 }

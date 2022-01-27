@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\bin\Debug\net6.0\Matricula Cursos.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\bin\Debug\net6.0\Matricula Cursos.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\bin\Debug\net6.0\Matricula Cursos.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\bin\Debug\net6.0\Matricula Cursos.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\bin\Debug\net6.0\ref\Matricula Cursos.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\bin\Debug\net6.0\Matricula Cursos.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\obj\Debug\net6.0\Matricula Cursos.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\obj\Debug\net6.0\Matricula Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\obj\Debug\net6.0\Matricula Cursos.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\obj\Debug\net6.0\Matricula Cursos.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\obj\Debug\net6.0\Matricula Cursos.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\obj\Debug\net6.0\Matricula Cursos.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\obj\Debug\net6.0\ref\Matricula Cursos.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\obj\Debug\net6.0\Matricula Cursos.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Matricula Cursos\obj\Debug\net6.0\Matricula Cursos.genruntimeconfig.cache
