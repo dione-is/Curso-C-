@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\bin\Debug\net6.0\log Usuario.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\bin\Debug\net6.0\log Usuario.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\bin\Debug\net6.0\log Usuario.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\bin\Debug\net6.0\log Usuario.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\bin\Debug\net6.0\ref\log Usuario.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\bin\Debug\net6.0\log Usuario.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\obj\Debug\net6.0\log Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\obj\Debug\net6.0\log Usuario.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\obj\Debug\net6.0\log Usuario.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\obj\Debug\net6.0\log Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\obj\Debug\net6.0\log Usuario.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\obj\Debug\net6.0\ref\log Usuario.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\obj\Debug\net6.0\log Usuario.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\obj\Debug\net6.0\log Usuario.genruntimeconfig.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\log Usuario\obj\Debug\net6.0\log Usuario.csproj.AssemblyReference.cache
