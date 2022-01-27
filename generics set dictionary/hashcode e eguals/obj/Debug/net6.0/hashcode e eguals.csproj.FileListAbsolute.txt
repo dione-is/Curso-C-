@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\bin\Debug\net6.0\hashcode e eguals.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\bin\Debug\net6.0\hashcode e eguals.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\bin\Debug\net6.0\hashcode e eguals.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\bin\Debug\net6.0\hashcode e eguals.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\bin\Debug\net6.0\ref\hashcode e eguals.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\bin\Debug\net6.0\hashcode e eguals.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\obj\Debug\net6.0\hashcode e eguals.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\obj\Debug\net6.0\hashcode e eguals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\obj\Debug\net6.0\hashcode e eguals.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\obj\Debug\net6.0\hashcode e eguals.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\obj\Debug\net6.0\hashcode e eguals.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\obj\Debug\net6.0\hashcode e eguals.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\obj\Debug\net6.0\ref\hashcode e eguals.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\obj\Debug\net6.0\hashcode e eguals.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\hashcode e eguals\obj\Debug\net6.0\hashcode e eguals.genruntimeconfig.cache

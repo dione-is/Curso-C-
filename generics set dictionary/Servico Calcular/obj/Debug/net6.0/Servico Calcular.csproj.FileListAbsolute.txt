@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\obj\Debug\net6.0\Servico Calcular.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\obj\Debug\net6.0\Servico Calcular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\obj\Debug\net6.0\Servico Calcular.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\obj\Debug\net6.0\Servico Calcular.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\obj\Debug\net6.0\Servico Calcular.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\bin\Debug\net6.0\Servico Calcular.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\bin\Debug\net6.0\Servico Calcular.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\bin\Debug\net6.0\Servico Calcular.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\bin\Debug\net6.0\Servico Calcular.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\bin\Debug\net6.0\ref\Servico Calcular.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\bin\Debug\net6.0\Servico Calcular.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\obj\Debug\net6.0\Servico Calcular.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\obj\Debug\net6.0\ref\Servico Calcular.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\obj\Debug\net6.0\Servico Calcular.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\Servico Calcular\obj\Debug\net6.0\Servico Calcular.genruntimeconfig.cache
