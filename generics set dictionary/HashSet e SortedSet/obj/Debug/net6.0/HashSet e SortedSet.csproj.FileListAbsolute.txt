@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\obj\Debug\net6.0\HashSet e SortedSet.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\obj\Debug\net6.0\HashSet e SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\obj\Debug\net6.0\HashSet e SortedSet.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\obj\Debug\net6.0\HashSet e SortedSet.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\obj\Debug\net6.0\HashSet e SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\bin\Debug\net6.0\HashSet e SortedSet.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\bin\Debug\net6.0\HashSet e SortedSet.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\bin\Debug\net6.0\HashSet e SortedSet.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\bin\Debug\net6.0\HashSet e SortedSet.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\bin\Debug\net6.0\ref\HashSet e SortedSet.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\bin\Debug\net6.0\HashSet e SortedSet.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\obj\Debug\net6.0\HashSet e SortedSet.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\obj\Debug\net6.0\ref\HashSet e SortedSet.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\obj\Debug\net6.0\HashSet e SortedSet.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\generics set dictionary\HashSet e SortedSet\obj\Debug\net6.0\HashSet e SortedSet.genruntimeconfig.cache
