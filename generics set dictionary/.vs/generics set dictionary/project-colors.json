@@ -15,7 +15,42 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Arquivos Diversos",
       "ColorIndex": -1
+    },
+    "5951391e-9d02-462c-8726-028bb2614c3c": {
+      "ProjectGuid": "5951391e-9d02-462c-8726-028bb2614c3c",
+      "DisplayName": "Servico Calcular",
+      "ColorIndex": 2
+    },
+    "f5aca939-babc-4eb0-8bca-c47f280415bd": {
+      "ProjectGuid": "f5aca939-babc-4eb0-8bca-c47f280415bd",
+      "DisplayName": "hashcode e eguals",
+      "ColorIndex": 3
+    },
+    "5d92be4f-f726-470a-9893-8a5448664a4c": {
+      "ProjectGuid": "5d92be4f-f726-470a-9893-8a5448664a4c",
+      "DisplayName": "HashSet",
+      "ColorIndex": 4
+    },
+    "f1f1ed4e-04f1-43dc-b815-73e0fde2300f": {
+      "ProjectGuid": "f1f1ed4e-04f1-43dc-b815-73e0fde2300f",
+      "DisplayName": "SortedSet",
+      "ColorIndex": 5
+    },
+    "0e70ca4b-4ded-4818-b456-81c9d877a1d7": {
+      "ProjectGuid": "0e70ca4b-4ded-4818-b456-81c9d877a1d7",
+      "DisplayName": "log Usuario",
+      "ColorIndex": 6
+    },
+    "6fba8cae-1d42-4ba7-9dee-c9a4b4be07f5": {
+      "ProjectGuid": "6fba8cae-1d42-4ba7-9dee-c9a4b4be07f5",
+      "DisplayName": "Matricula Cursos",
+      "ColorIndex": 7
+    },
+    "72739184-6f44-4849-9e44-c94727d932a9": {
+      "ProjectGuid": "72739184-6f44-4849-9e44-c94727d932a9",
+      "DisplayName": "votacao",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 9
 }
