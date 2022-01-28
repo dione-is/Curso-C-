@@ -14,7 +14,7 @@ namespace home {
             produtos.Add(new Produto("sanduicheira", 299.99));
             produtos.Add(new Produto("pneu Pirelli", 599.98));
 
-            Action<Produto> act  = AdionarAumento;
+            Action<Produto> act  = AdicionarAumento;
             produtos.ForEach(act);
 
             foreach (Produto p in produtos) { 
@@ -24,7 +24,7 @@ namespace home {
 
         }
 
-        static void AdionarAumento(Produto produto) { 
+        static void AdicionarAumento(Produto produto) { 
             
             produto.Preco += produto.Preco * 0.01;
         }

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71139355-75d6-4acf-8848-6b25409730bc": {
+      "ProjectGuid": "71139355-75d6-4acf-8848-6b25409730bc",
+      "DisplayName": "Delegate",
+      "ColorIndex": 0
+    },
+    "03642193-e7d6-430a-8f3e-38f3d4cce97c": {
+      "ProjectGuid": "03642193-e7d6-430a-8f3e-38f3d4cce97c",
+      "DisplayName": "Predicate",
+      "ColorIndex": 1
+    },
+    "52ae2f52-8e59-483b-997a-74ab33b6e37e": {
+      "ProjectGuid": "52ae2f52-8e59-483b-997a-74ab33b6e37e",
+      "DisplayName": "Action",
+      "ColorIndex": 2
+    },
+    "3c4273d0-1cc3-4aa6-b600-0b671d21de2d": {
+      "ProjectGuid": "3c4273d0-1cc3-4aa6-b600-0b671d21de2d",
+      "DisplayName": "Linq Introducao",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

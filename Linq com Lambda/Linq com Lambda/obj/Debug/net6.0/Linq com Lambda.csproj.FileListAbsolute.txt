@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\bin\Debug\net6.0\Linq com Lambda.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\bin\Debug\net6.0\Linq com Lambda.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\bin\Debug\net6.0\Linq com Lambda.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\bin\Debug\net6.0\Linq com Lambda.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\bin\Debug\net6.0\ref\Linq com Lambda.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\bin\Debug\net6.0\Linq com Lambda.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\obj\Debug\net6.0\Linq com Lambda.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\obj\Debug\net6.0\Linq com Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\obj\Debug\net6.0\Linq com Lambda.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\obj\Debug\net6.0\Linq com Lambda.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\obj\Debug\net6.0\Linq com Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\obj\Debug\net6.0\Linq com Lambda.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\obj\Debug\net6.0\ref\Linq com Lambda.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\obj\Debug\net6.0\Linq com Lambda.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\Linq com Lambda\Linq com Lambda\obj\Debug\net6.0\Linq com Lambda.genruntimeconfig.cache

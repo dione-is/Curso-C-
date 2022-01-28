@@ -1,0 +1,15 @@
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\bin\Debug\net6.0\Linq Introducao.exe
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\bin\Debug\net6.0\Linq Introducao.deps.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\bin\Debug\net6.0\Linq Introducao.runtimeconfig.json
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\bin\Debug\net6.0\Linq Introducao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\bin\Debug\net6.0\ref\Linq Introducao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\bin\Debug\net6.0\Linq Introducao.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\obj\Debug\net6.0\Linq Introducao.csproj.AssemblyReference.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\obj\Debug\net6.0\Linq Introducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\obj\Debug\net6.0\Linq Introducao.AssemblyInfoInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\obj\Debug\net6.0\Linq Introducao.AssemblyInfo.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\obj\Debug\net6.0\Linq Introducao.csproj.CoreCompileInputs.cache
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\obj\Debug\net6.0\Linq Introducao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\obj\Debug\net6.0\ref\Linq Introducao.dll
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\obj\Debug\net6.0\Linq Introducao.pdb
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\expressoes lambda delgate linq\Linq Introducao\obj\Debug\net6.0\Linq Introducao.genruntimeconfig.cache
