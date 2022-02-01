@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03fc4cad-130b-44c3-967e-34becc3c7148": {
+      "ProjectGuid": "03fc4cad-130b-44c3-967e-34becc3c7148",
+      "DisplayName": "Linq com Lambda",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
