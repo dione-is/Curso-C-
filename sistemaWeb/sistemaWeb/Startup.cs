@@ -9,6 +9,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+using sistemaWeb.Models;
 
 namespace sistemaWeb
 {
@@ -33,6 +35,10 @@ namespace sistemaWeb
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddDbContext<sistemaWebContext>(options =>
+                    options.UseMySql(Configuration.GetConnectionString("sistemaWebContext"), builder =>
+                    builder.MigrationsAssembly("sistemaWeb")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
