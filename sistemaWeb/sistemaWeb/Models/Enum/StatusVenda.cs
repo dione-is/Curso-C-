@@ -1,7 +1,7 @@
 ﻿
 namespace sistemaWeb.Models.Enum
 {
-    public enum StatusVenda_ : int
+    public enum StatusVenda : int
     {
         Pendente,
         Finalizada,

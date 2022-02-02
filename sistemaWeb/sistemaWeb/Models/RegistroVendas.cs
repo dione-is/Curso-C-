@@ -13,7 +13,7 @@ namespace sistemaWeb.Models
 
         public double Valor { get; set; }
 
-        public StatusVenda_ Status { get; set; }
+        public StatusVenda Status { get; set; }
 
         public Vendedor Vendedor { get; set; }
 
@@ -22,7 +22,7 @@ namespace sistemaWeb.Models
 
         }
 
-        public RegistroVendas(int id, DateTime data, double valor, StatusVenda_ status, Vendedor vendedor)
+        public RegistroVendas(int id, DateTime data, double valor, StatusVenda status, Vendedor vendedor)
         {
             Id = id;
             Data = data;
