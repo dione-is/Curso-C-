@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using sistemaWeb.Models;
+using sistemaWeb.Services;
 using sistemaWeb.Data;
 
 namespace sistemaWeb
@@ -42,6 +43,7 @@ namespace sistemaWeb
                     builder.MigrationsAssembly("sistemaWeb")));
 
             services.AddScoped<SeedingService>();
+            services.AddScoped<VendedorService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
