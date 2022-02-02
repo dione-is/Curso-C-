@@ -35,3 +35,4 @@ C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\sistemaWeb\sistemaWeb\obj\Debug
 C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\sistemaWeb\sistemaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Details.g.cshtml.cs
 C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\sistemaWeb\sistemaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Edit.g.cshtml.cs
 C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\sistemaWeb\sistemaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Index.g.cshtml.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\sistemaWeb\sistemaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Index.g.cshtml.cs
