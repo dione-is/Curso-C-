@@ -40,5 +40,47 @@ namespace sistemaWeb.Controllers
             _vendedorService.Inserir(vendedor);
             return RedirectToAction(nameof(Index));
         }
+
+       
+        public IActionResult Deletar(int? id)
+        {
+            if(id == null)
+            {
+                return NotFound();
+            }
+
+            var obj = _vendedorService.ObterPeloId(id.Value);
+            if(obj == null)
+            {
+                return NotFound();
+            }
+
+            return View(obj);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Deletar (int id)
+        {
+            _vendedorService.Remover(id);
+            return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult Detalhes(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var obj = _vendedorService.ObterPeloId(id.Value);
+            if (obj == null)
+            {
+                return NotFound();
+            }
+
+            return View(obj);
+        }
+
     }
 }
