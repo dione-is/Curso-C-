@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -47,13 +48,13 @@ namespace sistemaWeb.Controllers
         {
             if(id == null)
             {
-                return NotFound();
+                return RedirectToAction(nameof(Error), new { mensagem = "Id não Informado"});
             }
 
             var obj = _vendedorService.ObterPeloId(id.Value);
             if(obj == null)
             {
-                return NotFound();
+                return RedirectToAction(nameof(Error), new { mensagem = "Id não encontrado" });
             }
 
             return View(obj);
@@ -71,13 +72,13 @@ namespace sistemaWeb.Controllers
         {
             if (id == null)
             {
-                return NotFound();
+                return RedirectToAction(nameof(Error), new { mensagem = "Id não Informado" });
             }
 
             var obj = _vendedorService.ObterPeloId(id.Value);
             if (obj == null)
             {
-                return NotFound();
+                return RedirectToAction(nameof(Error), new { mensagem = "Id não encontrado" });
             }
 
             return View(obj);
@@ -87,14 +88,14 @@ namespace sistemaWeb.Controllers
         {
             if(id == null)
             {
-                return NotFound();
+                return RedirectToAction(nameof(Error), new { mensagem = "Id não Informado" });
             }
 
             var obj = _vendedorService.ObterPeloId(id.Value);
 
             if (obj == null)
             {
-                return NotFound();
+                return RedirectToAction(nameof(Error), new { mensagem = "Id não encontrado" });
             }
 
             List<Departamento> departamentos = _departamentoService.ObterTodos();
@@ -108,7 +109,7 @@ namespace sistemaWeb.Controllers
         {
             if (id != vendedor.Id)
             {
-                return BadRequest();
+                return RedirectToAction(nameof(Error), new { mensagem = "Id não conrresponde" });
             }
 
             try
@@ -116,14 +117,24 @@ namespace sistemaWeb.Controllers
                 _vendedorService.Atualizar(vendedor);
                 return RedirectToAction(nameof(Index));
             }
-            catch(NotFoundExceptions)
+            catch(NotFoundExceptions e)
             {
-                return NotFound();
+                return RedirectToAction(nameof(Error), new { mensagem = e.Message});
             }
-            catch (DbConcurrencyExceptions)
+            catch (DbConcurrencyExceptions e)
             {
-                return BadRequest();
+                return RedirectToAction(nameof(Error), new { mensagem = e.Message});
             }
+        }
+
+        public IActionResult Error(string mensagem)
+        {
+            var viewModel = new ErrorViewModel
+            {
+                Mensagem = mensagem,
+                RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier
+            };
+            return View(viewModel);
         }
 
     }

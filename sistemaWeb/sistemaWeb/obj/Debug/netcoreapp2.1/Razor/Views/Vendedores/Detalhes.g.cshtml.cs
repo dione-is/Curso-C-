@@ -165,7 +165,7 @@ using sistemaWeb.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(1057, 82, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "960bbe046dc2453bb50cf80e3dfe000f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19f1be0919a14fecb008d45e1fcea5ee", async() => {
                 BeginContext(1129, 6, true);
                 WriteLiteral("Editar");
                 EndContext();
@@ -201,7 +201,7 @@ using sistemaWeb.Models;
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(1145, 56, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5cdd9072f17d43cf92a4b3a200700012", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "603e1f4fd0db4cd6ba9e25463b4f1ea5", async() => {
                 BeginContext(1191, 6, true);
                 WriteLiteral("Voltar");
                 EndContext();
