@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 
 
@@ -9,12 +10,25 @@ namespace sistemaWeb.Models
     {
         public int Id { get; set; }
 
+        [Required (ErrorMessage = "{0} obrigatorio")]
+        [StringLength(60, MinimumLength = 3, ErrorMessage ="{0} deve conter no maximo {1} e no minimo {2} caracteres")]
         public string Nome { get; set; }
 
+        [Required(ErrorMessage = "{0} obrigatorio")]
+        [EmailAddress(ErrorMessage = "Entre com um {0} valido")]
+        [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
 
+        [Required(ErrorMessage = "{0} obrigatorio")]
+        [Display(Name = "Data Nascimento")]
+        [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString ="{0:dd/MM/yyyy}")]
         public DateTime DataNascimento { get; set; }
 
+        [Required(ErrorMessage = "{0} obrigatorio")]
+        [Range(1100.0, 50000.0, ErrorMessage = "{0} deve estar entre {1} até {2}")]
+        [Display(Name = "Salário Base")]
+        [DisplayFormat(DataFormatString ="{0:F2}")]
         public double SalarioBase { get; set; }
 
         public ICollection<RegistroVendas> listaVendas { get; set; } = new List<RegistroVendas>();

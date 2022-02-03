@@ -67,7 +67,7 @@ using sistemaWeb.Models;
             WriteLiteral("\r\n<h2>Vendedores</h2>\r\n<hr/>\r\n<p>\r\n    ");
             EndContext();
             BeginContext(130, 60, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c193f3085b614e1386a54c4652f58eaa", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7a3f6f77d19d4647803d601bf764e05b", async() => {
                 BeginContext(176, 10, true);
                 WriteLiteral("Criar Novo");
                 EndContext();
@@ -179,7 +179,7 @@ using sistemaWeb.Models;
             WriteLiteral("\r\n                </td>\r\n                <td>\r\n                    ");
             EndContext();
             BeginContext(1322, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f3da763af17b4676a50a49e9bd6c5201", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8630b9b04bc04319a94f41968835ea67", async() => {
                 BeginContext(1369, 6, true);
                 WriteLiteral("Editar");
                 EndContext();
@@ -214,7 +214,7 @@ using sistemaWeb.Models;
             WriteLiteral("\r\n                    ");
             EndContext();
             BeginContext(1401, 61, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b2ed148964f44a88254fb4094d400d3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4b37c23571ce4570b7b171bc6c95370e", async() => {
                 BeginContext(1450, 8, true);
                 WriteLiteral("Detalhes");
                 EndContext();
@@ -249,7 +249,7 @@ using sistemaWeb.Models;
             WriteLiteral("\r\n                    ");
             EndContext();
             BeginContext(1484, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a7f397b745894b0791231d119106cc5b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "076715e41fc54a328400410fec63f3b1", async() => {
                 BeginContext(1532, 7, true);
                 WriteLiteral("Remover");
                 EndContext();
