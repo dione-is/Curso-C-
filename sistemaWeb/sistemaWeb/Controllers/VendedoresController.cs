@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using sistemaWeb.Models;
 using sistemaWeb.Models.ViewsModels;
 using sistemaWeb.Services;
+using sistemaWeb.Services.Exceptions;
 
 namespace sistemaWeb.Controllers
 {
@@ -80,6 +81,49 @@ namespace sistemaWeb.Controllers
             }
 
             return View(obj);
+        }
+
+        public IActionResult Editar (int ? id)
+        {
+            if(id == null)
+            {
+                return NotFound();
+            }
+
+            var obj = _vendedorService.ObterPeloId(id.Value);
+
+            if (obj == null)
+            {
+                return NotFound();
+            }
+
+            List<Departamento> departamentos = _departamentoService.ObterTodos();
+            VendedorFormViewModel viewModel = new VendedorFormViewModel { Vendedor = obj, Departamentos = departamentos};
+            return View(viewModel);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Editar(int id, Vendedor vendedor)
+        {
+            if (id != vendedor.Id)
+            {
+                return BadRequest();
+            }
+
+            try
+            {
+                _vendedorService.Atualizar(vendedor);
+                return RedirectToAction(nameof(Index));
+            }
+            catch(NotFoundExceptions)
+            {
+                return NotFound();
+            }
+            catch (DbConcurrencyExceptions)
+            {
+                return BadRequest();
+            }
         }
 
     }

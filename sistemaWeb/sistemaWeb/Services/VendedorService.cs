@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using sistemaWeb.Models;
 using Microsoft.EntityFrameworkCore;
+using sistemaWeb.Services.Exceptions;
 
 namespace sistemaWeb.Services
 {
@@ -37,6 +38,24 @@ namespace sistemaWeb.Services
             var obj = _context.Vendedor.Find(id);
             _context.Vendedor.Remove(obj);
             _context.SaveChanges();
+        }
+
+        public void Atualizar (Vendedor obj)
+        {
+            if(!_context.Vendedor.Any(x => x.Id == obj.Id))
+            {
+                throw new NotFoundExceptions("id não existe");
+            }
+
+            try
+            {
+                _context.Update(obj);
+                _context.SaveChanges();
+            }
+            catch(DbConcurrencyExceptions e)
+            {
+                throw new DbConcurrencyExceptions(e.Message);
+            }
         }
     }
 }
