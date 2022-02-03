@@ -21,6 +21,8 @@ namespace sistemaWeb.Models
 
         public Departamento Departamento { get; set; }
 
+        public int DepartamentoId { get; set; }
+
         public Vendedor()
         {
 

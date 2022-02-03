@@ -4,35 +4,40 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using sistemaWeb.Models;
+using sistemaWeb.Models.ViewsModels;
 using sistemaWeb.Services;
 
 namespace sistemaWeb.Controllers
 {
     public class VendedoresController : Controller
     {
-        private readonly VendedorService service;
+        private readonly VendedorService _vendedorService;
+        private readonly DepartamentoService _departamentoService;
 
-        public VendedoresController(VendedorService vendedorService)
+        public VendedoresController(VendedorService vendedorService, DepartamentoService departamentoService)
         {
-            service = vendedorService;
+            _vendedorService = vendedorService;
+            _departamentoService = departamentoService;
         }
 
         public IActionResult Index()
         {
-            var list = service.ObterTodos();
+            var list = _vendedorService.ObterTodos();
             return View(list);
         }
 
         public IActionResult Criar()
         {
-            return View();
+            var departamentos = _departamentoService.ObterTodos();
+            var viewModel = new VendedorFormViewModel {Departamentos = departamentos };
+            return View(viewModel);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Criar(Vendedor vendedor)
         {
-            service.Inserir(vendedor);
+            _vendedorService.Inserir(vendedor);
             return RedirectToAction(nameof(Index));
         }
     }
