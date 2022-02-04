@@ -31,7 +31,7 @@ namespace sistemaWeb.Models
         [DisplayFormat(DataFormatString ="{0:F2}")]
         public double SalarioBase { get; set; }
 
-        public ICollection<RegistroVendas> listaVendas { get; set; } = new List<RegistroVendas>();
+        public ICollection<RegistroVenda> listaVendas { get; set; } = new List<RegistroVenda>();
 
         public Departamento Departamento { get; set; }
 
@@ -52,12 +52,12 @@ namespace sistemaWeb.Models
             Departamento = departamento;
         }
 
-        public void AdicionarVenda( RegistroVendas venda)
+        public void AdicionarVenda( RegistroVenda venda)
         {
             listaVendas.Add(venda);
         }
 
-        public void RemoverVenda(RegistroVendas venda)
+        public void RemoverVenda(RegistroVenda venda)
         {
             listaVendas.Remove(venda);
         }
