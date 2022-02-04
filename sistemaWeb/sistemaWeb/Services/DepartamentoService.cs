@@ -1,4 +1,5 @@
-﻿using sistemaWeb.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using sistemaWeb.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,9 +17,9 @@ namespace sistemaWeb.Services
             _context = context;
         }
 
-        public List<Departamento> ObterTodos()
+        public async Task<List<Departamento>> ObterTodosAsync()
         {
-            return _context.Departamento.OrderBy(dep => dep.Nome).ToList();
+            return await _context.Departamento.OrderBy(dep => dep.Nome).ToListAsync();
         }
     }
 }
