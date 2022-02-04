@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using sistemaWeb.Models.Enum;
+using System.ComponentModel.DataAnnotations;
 
 namespace sistemaWeb.Models
 {
@@ -9,8 +10,10 @@ namespace sistemaWeb.Models
     {
         public int Id { get; set; }
 
+        [DisplayFormat(DataFormatString ="{0:dd/MM/yyyy}")]
         public DateTime Data { get; set; }
 
+        [DisplayFormat(DataFormatString ="{0:F2}")]
         public double Valor { get; set; }
 
         public StatusVenda Status { get; set; }

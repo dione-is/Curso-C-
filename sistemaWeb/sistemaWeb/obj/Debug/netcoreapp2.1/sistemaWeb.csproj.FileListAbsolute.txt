@@ -42,3 +42,4 @@ C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\sistemaWeb\sistemaWeb\obj\Debug
 C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\sistemaWeb\sistemaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Editar.g.cshtml.cs
 C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\sistemaWeb\sistemaWeb\obj\Debug\netcoreapp2.1\Razor\Views\RegistroVendas\Index.g.cshtml.cs
 C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\sistemaWeb\sistemaWeb\obj\Debug\netcoreapp2.1\Razor\Views\RegistroVendas\BuscaSimples.g.cshtml.cs
+C:\Users\Dione\Documents\CursoAlgoritmoELogicaC#\sistemaWeb\sistemaWeb\obj\Debug\netcoreapp2.1\Razor\Views\RegistroVendas\BuscaGrupo.g.cshtml.cs
